@@ -4,7 +4,7 @@ Ratelytics provide a captain with suggestions to change the course slightly to r
 #### Inspiration
 Fuel waste one of the biggest problems of our time. Both environmentally and financially, it is an enormous drain on resources. Maritime shipping has only increased in frequency in importance in recent years, corresponding with a boom in e-commerce and globalized trade patterns. The maritime industry, just last year, consumed approximately 2.6 million metric tons of fuel, at an average cost of $380 per metric ton.
 
-If we save even _ 1% _ of total fuel spend - that's 26,000 metric tons unburned, at a cost savings of _ $100 million _.
+If we save even _1%_ of total fuel spend - that's 26,000 metric tons unburned, at a cost savings of _$100 million_.
 
 We aim to help the maritime industry reduce cost through optimizing fuel usage.
 
@@ -30,10 +30,14 @@ We learned much too much to list here, but knowledge gained included: Different 
 #### What's next for Ratelytics (validation, research, coding, design)?
 We are currently seeking partners who are interested in supplying us with datasets. We would like to continue building out the product with a larger collection of ship reports.
 
-#### Contributors
-* Sylvan O'Sullivan (Back End Dev)-  sylvanosullivan (at) gmail.com
-* Jing Li (Data scientist)- jl5358 (at) columbia.edu
-* Alberto Giannetti (Data scientist)- albertogiannetti (at) gmail.com
+#### Our Team
+
+Ratelytics is comprised of a diverse team with strongly complementary backgrounds.  Our members represent four different countries and six overlapping professional fields.
+
+**Our members:**
+* Sylvan O'Sullivan (Data Engineer)-  sylvanosullivan (at) gmail.com
+* Jing Li (Data Scientist)- jl5358 (at) columbia.edu
+* Alberto Giannetti (Data Scientist)- albertogiannetti (at) gmail.com
 * Carlos Merced (UX - Front End Dev) - mail.merced (at) gmail.com
-* Maggie Chen (Dev)- mchen1415 (at) gmail.com
-* Raquel Hollatz (Industry professional)- rakerholl (at) hotmail.com
+* Maggie Chen (Full Stack Dev)- mchen1415 (at) gmail.com
+* Raquel Hollatz (Industry Professional)- rakerholl (at) hotmail.com
